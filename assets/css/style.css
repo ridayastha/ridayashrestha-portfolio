@@ -754,7 +754,7 @@ header ul li a.active{
     grid-gap: 4px;
 }
 .testimonals-reviews i{
-    color: var(--main-color);
+    color: orange;
     font-size: 0.8rem;
 }
 .testimonals-box p{
